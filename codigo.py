@@ -10,3 +10,5 @@ elif n3 == "op2":
     print(f"\nA soma dos números é: {op2}")
 elif n3 == "op3":
     print(f"\nA subtração dos números é: {op3}")
+else: 
+    print("ERRO!!! SELECIONE UMA DAS OPÇÕES!")
